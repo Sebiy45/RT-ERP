@@ -1,0 +1,31 @@
+Label,Descripción
+module:core,Plataforma reutilizable
+module:auth,Identidad y autorización
+module:dev,DevSecOps
+module:ops,Operación y continuidad
+module:org,Organización
+module:cfg,Configuración
+module:pty,Terceros
+module:cat,Catálogo
+module:inv,Inventario
+module:sal,Ventas
+module:pur,Compras
+module:tre,Tesorería
+module:fiscal,Facturación electrónica
+module:saas,Administración SaaS
+module:comm,Producto comercial
+module:rest,Restaurante
+module:api,API
+module:i18n,Internacionalización
+type:backend,Trabajo Backend
+type:frontend,Trabajo Frontend
+type:full-stack,Trabajo Full Stack
+type:qa,Calidad/Pruebas
+type:devsecops,DevSecOps
+type:ops,Operación
+type:infra,Infraestructura
+type:docs,Documentación
+type:pm/tech,Gestión/arquitectura
+priority:crítica,Bloquea salida o producción
+priority:alta,Alta prioridad
+priority:media,Prioridad media

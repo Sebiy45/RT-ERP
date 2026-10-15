@@ -1,0 +1,7 @@
+Milestone,Objetivo
+Fase 0 — Cierre técnico,"OIDC productivo, CI seguridad, scheduler, restore y observabilidad"
+Fase 1 — Piloto Perú,Primeros clientes pagados de servicios/comercio y SUNAT beta
+Fase 2 — Producto comercial,"Onboarding, provisioning, cobro, soporte, importación y analítica básica"
+Fase 3 — Restaurante,"POS, turnos, comandas, cocina, recetas, merma y offline controlado"
+Fase 4 — Integradores API,"OAuth automático, cuotas, webhooks, catálogo API y SLA"
+Fase 5 — Segundo país,Nuevo paquete fiscal e internacionalización completa
